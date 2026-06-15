@@ -1,6 +1,6 @@
 # Hi there, I'm Paweł! 👋
 
-### Data Analyst | Junior Data Scientist | Econometrics Enthusiast
+### Junior Data Analyst | Junior Data Scientist
 
 I am a data professional specializing in predictive modeling, statistical analysis, and machine learning. My background in econometrics allows me to blend rigorous statistical foundations with modern Data Science techniques to extract actionable business insights.
 
